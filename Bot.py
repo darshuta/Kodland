@@ -38,4 +38,4 @@ async def revers(ctx, word):
     await ctx.send(word_revers)
 
 
-bot.run("MTEyNDcyMzM5NDI5MDY1MTIzNw.GChXlD.0ph-gDfqi_ny4p41suTGHxwSvTx38h73Ef_vsI")
+bot.run("ТУТ УКАЖИТЕ ТОКЕН СВОЕГО БОТА")
